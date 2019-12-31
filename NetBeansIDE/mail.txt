@@ -1,0 +1,5 @@
+imap.googlemail.com
+somemail@gmail.com
+somepassword
+green
+red

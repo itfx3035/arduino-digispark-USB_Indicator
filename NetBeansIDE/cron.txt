@@ -1,0 +1,3 @@
+10|00|00|not used|Some event at 10 am
+11|30|00|not used|Another event at 11:30 am
+22|00|00|not used|One more event at 10 pm
